@@ -4,45 +4,45 @@
       "image": "image1.jpg",
       "buildingName": "Library West",
       "address": "1545 W University Ave, Gainesville, FL 32603",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": ["Cafeteria", "Coffee Shop"],
-      "busRoutes": ["Bus 1", "Bus 2"]
+      "operatinghours": "10 AM - 1 AM [M-F]",
+      "foodAvailability": ["Starbucks", "Wawa", "Chipotle"],
+      "busRoutes": ["Bus 5", "Bus 43", "Bus 126", "Bus 127"]
     },
     {
       "id": 2,
       "image": "image2.jpg",
       "buildingName": "Marston",
       "address": "444 Newell Dr, Gainesville, FL 32611",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": ["Cafeteria", "Coffee Shop"],
-      "busRoutes": ["Bus 1", "Bus 2"]
+      "operatinghours": "24 Hours [ALL WEEK]",
+      "foodAvailability": ["Firehouse Subs", "Chick-Fil-A", "Starbucks", "The Hub Market"],
+      "busRoutes": ["Bus 9", "Bus 33", "Bus 38", "Bus 125"]
     },
     {
       "id": 3,
       "image": "image3.jpg",
       "buildingName": "Malachowsky",
       "address": "1889 Museum Road Gainesville, FL 32611",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": ["Cafeteria", "Coffee Shop"],
-      "busRoutes": ["Bus 1", "Bus 2"]
+      "operatinghours": "8 AM - 11 PM [ALL WEEK]",
+      "foodAvailability": ["Beans & Bytes and Reitz Union Food Court"],
+      "busRoutes": ["Bus 8", "Bus 33", "Bus 35", "Bus 37", "Bus 38", "Bus 43", "Bus 52"]
     },
     {
       "id": 4,
       "image": "image4.jpg",
       "buildingName": "Newell Hall",
       "address": "1700 Stadium Rd, Gainesville, FL 32603",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": ["Cafeteria", "Coffee Shop"],
-      "busRoutes": ["Bus 1", "Bus 2"]
+      "operatinghours": "8 AM - 11 PM [ALL WEEK]",
+      "foodAvailability": ["Sweetberries", "Firehouse Subs", "Chick-Fil-A", "Starbucks"],
+      "busRoutes": ["Bus 9", "Bus 28", "Bus 34", "Bus 38", "Bus 118", "Bus 122", "Bus 125", "Bus 126"]
     },
     {
       "id": 5,
       "image": "image5.jpg",
       "buildingName": "University Auditorium",
-      "address": "789 Oak St",
+      "address": "333 Newell Dr, Gainesville, FL 32611",
       "operatinghours": "9AM - 10PM",
       "foodAvailability": ["Cafeteria", "Coffee Shop"],
-      "busRoutes": ["Bus 1", "Bus 2"]
+      "busRoutes": ["Bus 127"]
     },
     {
       "id": 6,
