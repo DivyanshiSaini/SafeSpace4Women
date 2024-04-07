@@ -12,7 +12,7 @@ function RandomGenerator() {
 
   return (
     <div className="Home">
-       <h2 className="Title">{"Study Spot Finder"}</h2>
+       <h2 className="Title">{"StudyAlli"}</h2>
       <button onClick={generateRandomSpot}>Find Me A Study Spot</button>
 
       {randomSpot && (
