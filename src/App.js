@@ -1,10 +1,10 @@
 import React from "react";
-import StudySpotGenerator from "./pages/RandomGenerator";
+import RandomGenerator from "./pages/RandomGenerator";
 
 function App() {
   return (
     <div>
-      <StudySpotGenerator />
+      <RandomGenerator/>
     </div>
   );
 }

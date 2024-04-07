@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import studySpotsData from "./studySpotData.json";
 import "./RandomGenerator.css"; 
 
-function StudySpotGenerator() {
+function RandomGenerator() {
   const [randomSpot, setRandomSpot] = useState();
 
   const generateRandomSpot = () => {
@@ -36,4 +36,4 @@ function StudySpotGenerator() {
   );
 }
 
-export default StudySpotGenerator;
+export default RandomGenerator;
