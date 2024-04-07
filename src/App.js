@@ -1,12 +1,10 @@
-import './App.css';
-import React from 'react';
-import HomePage from './Pages/HomePage';
+import React from "react";
+import StudySpotGenerator from "./pages/RandomGenerator";
 
 function App() {
   return (
-    <div className="App">
-      <HomePage />
-      
+    <div>
+      <StudySpotGenerator />
     </div>
   );
 }
