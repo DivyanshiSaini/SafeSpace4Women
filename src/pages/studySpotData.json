@@ -3,9 +3,8 @@
       "id": 1,
       "image": "image1.jpg",
       "buildingName": "Library West",
-      "address1": "1545 W University Ave, Gainesville, FL 32603",
+      "address": "1545 W University Ave, Gainesville, FL 32603",
       "operatinghours": "9AM - 10PM",
-      "studyBoothsAvailable": "Yes",
       "foodAvailability": ["Cafeteria", "Coffee Shop"],
       "busRoutes": ["Bus 1", "Bus 2"]
     },
@@ -15,9 +14,8 @@
       "buildingName": "Marston",
       "address": "444 Newell Dr, Gainesville, FL 32611",
       "operatinghours": "9AM - 10PM",
-      "studyBoothsAvailable": 30,
-      "foodAvailability": ["Food Court", "Smoothie Bar"],
-      "busRoutes": ["Bus 3", "Bus 4"]
+      "foodAvailability": ["Cafeteria", "Coffee Shop"],
+      "busRoutes": ["Bus 1", "Bus 2"]
     },
     {
       "id": 3,
@@ -25,9 +23,8 @@
       "buildingName": "Malachowsky",
       "address": "1889 Museum Road Gainesville, FL 32611",
       "operatinghours": "9AM - 10PM",
-      "studyBoothsAvailable": 40,
-      "foodAvailability": "None",
-      "busRoutes": ["Bus 5", "Bus 6"]
+      "foodAvailability": ["Cafeteria", "Coffee Shop"],
+      "busRoutes": ["Bus 1", "Bus 2"]
     },
     {
       "id": 4,
@@ -35,9 +32,8 @@
       "buildingName": "Newell Hall",
       "address": "1700 Stadium Rd, Gainesville, FL 32603",
       "operatinghours": "9AM - 10PM",
-      "studyBoothsAvailable": 40,
-      "foodAvailability": "None",
-      "busRoutes": ["Bus 5", "Bus 6"]
+      "foodAvailability": ["Cafeteria", "Coffee Shop"],
+      "busRoutes": ["Bus 1", "Bus 2"]
     },
     {
       "id": 5,
@@ -45,9 +41,8 @@
       "buildingName": "University Auditorium",
       "address": "789 Oak St",
       "operatinghours": "9AM - 10PM",
-      "studyBoothsAvailable": 40,
-      "foodAvailability": "None",
-      "busRoutes": ["Bus 5", "Bus 6"]
+      "foodAvailability": ["Cafeteria", "Coffee Shop"],
+      "busRoutes": ["Bus 1", "Bus 2"]
     },
     {
       "id": 6,
@@ -55,9 +50,8 @@
       "buildingName": "Weimer Hall",
       "address": "789 Oak St",
       "operatinghours": "9AM - 10PM",
-      "studyBoothsAvailable": 40,
-      "foodAvailability": "None",
-      "busRoutes": ["Bus 5", "Bus 6"]
+      "foodAvailability": ["Cafeteria", "Coffee Shop"],
+      "busRoutes": ["Bus 1", "Bus 2"]
     },
     {
       "id": 7,
@@ -65,9 +59,8 @@
       "buildingName": "Architecture & Fine Arts Library",
       "address": "789 Oak St",
       "operatinghours": "9AM - 10PM",
-      "studyBoothsAvailable": 40,
-      "foodAvailability": "None",
-      "busRoutes": ["Bus 5", "Bus 6"]
+      "foodAvailability": ["Cafeteria", "Coffee Shop"],
+      "busRoutes": ["Bus 1", "Bus 2"]
     },
     {
       "id": 8,
@@ -75,9 +68,8 @@
       "buildingName": "Health Science Library",
       "address": "789 Oak St",
       "operatinghours": "9AM - 10PM",
-      "studyBoothsAvailable": 40,
-      "foodAvailability": "None",
-      "busRoutes": ["Bus 5", "Bus 6"]
+      "foodAvailability": ["Cafeteria", "Coffee Shop"],
+      "busRoutes": ["Bus 1", "Bus 2"]
     },
     {
       "id": 9,
@@ -85,9 +77,8 @@
       "buildingName": "Reitz Union",
       "address": "789 Oak St",
       "operatinghours": "9AM - 10PM",
-      "studyBoothsAvailable": 40,
-      "foodAvailability": "None",
-      "busRoutes": ["Bus 5", "Bus 6"]
+      "foodAvailability": ["Cafeteria", "Coffee Shop"],
+      "busRoutes": ["Bus 1", "Bus 2"]
     },
     {
       "id": 10,
@@ -95,9 +86,8 @@
       "buildingName": "Smathers Library",
       "address": "789 Oak St",
       "operatinghours": "9AM - 10PM",
-      "studyBoothsAvailable": 40,
-      "foodAvailability": "None",
-      "busRoutes": ["Bus 5", "Bus 6"]
+      "foodAvailability": ["Cafeteria", "Coffee Shop"],
+      "busRoutes": ["Bus 1", "Bus 2"]
     },
     {
       "id": 11,
@@ -105,7 +95,6 @@
       "buildingName": "Education Library",
       "address": "789 Oak St",
       "operatinghours": "9AM - 10PM",
-      "studyBoothsAvailable": 40,
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -114,7 +103,7 @@
       "image": "image12.jpg",
       "buildingName": "The Hub",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -123,7 +112,7 @@
       "image": "image13.jpg",
       "buildingName": "Wertheim Lab for Engineering Excellence",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -132,7 +121,7 @@
       "image": "image14.jpg",
       "buildingName": "Heavner School of Busniess",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -141,7 +130,7 @@
       "image": "image15.jpg",
       "buildingName": "Levin College of Law",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -150,7 +139,7 @@
       "image": "image16.jpg",
       "buildingName": "Biomedical Sciences Building",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -159,7 +148,7 @@
       "image": "image17.jpg",
       "buildingName": "Ben Hill Griffin Stadium",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -168,7 +157,7 @@
       "image": "image18.jpg",
       "buildingName": "Plaza of Americas",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -177,7 +166,7 @@
       "image": "image19.jpg",
       "buildingName": "Reitz Liberty Pond",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -186,7 +175,7 @@
       "image": "image20.jpg",
       "buildingName": "CSE Building",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -195,7 +184,7 @@
       "image": "image21.jpg",
       "buildingName": "Innovation Academy",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -204,7 +193,7 @@
       "image": "image22.jpg",
       "buildingName": "Pugh Hall",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -213,7 +202,7 @@
       "image": "image23.jpg",
       "buildingName": "Emerson Courtyard",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -222,7 +211,7 @@
       "image": "image24.jpg",
       "buildingName": "UF School of Music",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     },
@@ -231,7 +220,7 @@
       "image": "image25.jpg",
       "buildingName": "Hough Hall",
       "address": "789 Oak St",
-      "studyBoothsAvailable": 40,
+      "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
       "busRoutes": ["Bus 5", "Bus 6"]
     }
