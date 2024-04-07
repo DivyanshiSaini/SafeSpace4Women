@@ -40,80 +40,80 @@
       "image": "image5.jpg",
       "buildingName": "University Auditorium",
       "address": "333 Newell Dr, Gainesville, FL 32611",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": ["Cafeteria", "Coffee Shop"],
+      "operatinghours": "8 AM - 6 PM [M-F]",
+      "foodAvailability": ["Little Hall Express", "Starbucks", "Firehouse Subs", "Subway"],
       "busRoutes": ["Bus 127"]
     },
     {
       "id": 6,
       "image": "image6.jpg",
       "buildingName": "Weimer Hall",
-      "address": "789 Oak St",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": ["Cafeteria", "Coffee Shop"],
-      "busRoutes": ["Bus 1", "Bus 2"]
+      "address": "3208 Weimer Hall 1885 Stadium Road",
+      "operatinghours": "8 AM - 6 PM [M-F]",
+      "foodAvailability": ["Reitz Union Food Court", "The Food Court", "Firehouse Subs"],
+      "busRoutes": ["Bus 9", "Bus 28", "Bus 33", "Bus 34", "Bus 38", "Bus 118", "Bus 122", "Bus 125"]
     },
     {
       "id": 7,
       "image": "image7.jpg",
       "buildingName": "Architecture & Fine Arts Library",
-      "address": "789 Oak St",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": ["Cafeteria", "Coffee Shop"],
-      "busRoutes": ["Bus 1", "Bus 2"]
+      "address": "UF Fine Arts Complex 201 Fine Arts A, Gainesville, FL 32611",
+      "operatinghours": "8 AM - 10 PM [M-R]",
+      "foodAvailability": ["Little Hall Express", "Playa Bowls", "Rawlings Market and Subway"],
+      "busRoutes": ["Bus 1", "Bus 8", "Bus 25", "Bus 43", "Bus 46"]
     },
     {
       "id": 8,
       "image": "image8.jpg",
       "buildingName": "Health Science Library",
-      "address": "789 Oak St",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": ["Cafeteria", "Coffee Shop"],
-      "busRoutes": ["Bus 1", "Bus 2"]
+      "address": "Communicore Building, SW Archer Rd, Gainesville, FL 32610",
+      "operatinghours": "7:30 AM - 11:30 PM [M-R]",
+      "foodAvailability": ["Eistien Bros Bagels", "Wendy's", "Subway", "Opus Coffee"],
+      "busRoutes": ["Bus 8", "Bus 33", "Bus 35", "Bus 37", "Bus 38", "Bus 43", "Bus 52", "Bus 150"]
     },
     {
       "id": 9,
       "image": "image9.jpg",
       "buildingName": "Reitz Union",
-      "address": "789 Oak St",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": ["Cafeteria", "Coffee Shop"],
-      "busRoutes": ["Bus 1", "Bus 2"]
+      "address": "686 Museum Rd, Gainesville, FL 32611",
+      "operatinghours": "7:00 AM - 11:00 PM [M-F]",
+      "foodAvailability": ["Reitz Union Food Court", "Beans and Bytes", "The Hub Food Court"],
+      "busRoutes": ["Bus 9", "Bus 12", "Bus 20", "Bus 21", "Bus 25", "Bus 35", "Bus 37", "Bus 38", "Bus 46", "Bus 52", "Bus 126", "Bus 150"]
     },
     {
       "id": 10,
       "image": "image10.jpg",
       "buildingName": "Smathers Library",
-      "address": "789 Oak St",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": ["Cafeteria", "Coffee Shop"],
-      "busRoutes": ["Bus 1", "Bus 2"]
+      "address": "1508 Union Rd, Gainesville, FL 32611",
+      "operatinghours": "8 AM - 7 PM [M-R]",
+      "foodAvailability": ["Starbucks", "Wawa", "Chipotle"],
+      "busRoutes": ["Bus 9", "Bus 12", "Bus 20", "Bus 21", "Bus 25", "Bus 35", "Bus 37", "Bus 38", "Bus 46", "Bus 52", "Bus 126", "Bus 150"]
     },
     {
       "id": 11,
       "image": "image11.jpg",
       "buildingName": "Education Library",
-      "address": "789 Oak St",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": "None",
-      "busRoutes": ["Bus 5", "Bus 6"]
+      "address": "Norman Hall Addition, 618 SW 12th St, Gainesville, FL 32601",
+      "operatinghours": "8 AM - 10 PM [M-R] ",
+      "foodAvailability": ["Playa Bowls", "Little Hall Express", "Opus Coffee"],
+      "busRoutes": ["Bus 127"]
     },
     {
       "id": 12,
       "image": "image12.jpg",
       "buildingName": "The Hub",
-      "address": "789 Oak St",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": "None",
-      "busRoutes": ["Bus 5", "Bus 6"]
+      "address": "1765 Stadium Rd, Gainesville, FL 32608",
+      "operatinghours": "7 AM - 10 PM [M-R]",
+      "foodAvailability": ["Firehouse Subs", "Chick-Fil-A", "Starbucks", "The Hub Market"],
+      "busRoutes": ["Bus 9", "Bus 28","Bus 34", "Bus 38", "Bus 118", "Bus 122", "Bus 125", "Bus 126"]
     },
     {
       "id": 13,
       "image": "image13.jpg",
       "buildingName": "Wertheim Lab for Engineering Excellence",
-      "address": "789 Oak St",
-      "operatinghours": "9AM - 10PM",
-      "foodAvailability": "None",
+      "address": "527 Gale Lemerand Dr, Gainesville, FL 32603",
+      "operatinghours": "8 AM - 10 PM [M-F]",
+      "foodAvailability": ["Reitz Union Food Court", "Beans and Bytes", "The Hub Food Court"],
       "busRoutes": ["Bus 5", "Bus 6"]
     },
     {
@@ -123,7 +123,7 @@
       "address": "789 Oak St",
       "operatinghours": "9AM - 10PM",
       "foodAvailability": "None",
-      "busRoutes": ["Bus 5", "Bus 6"]
+      "busRoutes": ["Bus 9", "Bus 12", "Bus 20", "Bus 21", "Bus 25", "Bus 35", "Bus 37", "Bus 38", "Bus 46", "Bus 52", "Bus 126", "Bus 150"]
     },
     {
       "id": 15,
